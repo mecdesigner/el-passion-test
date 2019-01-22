@@ -137,18 +137,18 @@
 </body>
 <script type="text/javascript">
 	function activeIssue(x) {
-		if (x.classList) {
-		x.classList.toggle("column-view__icon--active");
-		} else {
-	    var classes = x.className.split(" ");
-	    var i = classes.indexOf("column-view__icon--active");
+    if (x.classList) {
+        x.classList.toggle("column-view__icon--active");
+    } else {
+        var classes = x.className.split(" ");
+        var i = classes.indexOf("column-view__icon--active");
 
-	    if (i >= 0) 
-	      classes.splice(i, 1);
-	    else 
-	      classes.push("column-view__icon--active");
-	      x.className = classes.join(" "); 
-  		}
-	}
+        if (i >= 0)
+            classes.splice(i, 1);
+        else
+            classes.push("column-view__icon--active");
+        x.className = classes.join(" ");
+    }
+}
 </script>
 </html>

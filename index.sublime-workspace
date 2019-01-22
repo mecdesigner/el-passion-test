@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"r",
+				"rgba"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cla",
+				"class\tAttr"
+			],
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"al",
+				"aligncenter"
+			],
+			[
+				"light",
+				"bg-light"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"altroc",
+				"altroconsumo"
+			],
+			[
+				"bg-",
+				"bg--dark"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: = Shortcut to @mixin"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Controlinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: SCSS",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/index.html",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/_variables.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/img/icon-star.svg",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/_buttons.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/_base.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/_layout.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/_colors.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/_grid.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/_forms.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/css/style.css",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/css/test.js",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/main.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/variables.scss",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/package-lock.json",
+		"/Users/mec/Downloads/el_passion_front_end_assignment/html/scss/index.scss",
+		"/Users/mec/Downloads/bootstrap-4.0.0/index.html",
+		"/Users/mec/Downloads/bootstrap-4.0.0/scss/_buttons.scss",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/.water_analysis_prototype/step_3.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/water_analysis_prototype.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/email_consumer_monthly.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/.index.php",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/.error.php",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/.sorttable.js",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/.htaccess",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/webslides/index.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/index.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/landing_test.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/in-viaggio.html",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/www.altroconsumo.it/landing/in-viaggio.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/landing_.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/rc_auto/index.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/rc_auto_webpage.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/files/.madeonline_test/index.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/madeonline_test.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/best_bank_service_protoytpe.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/cardiac_risk_prototype.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/water_analysis_prototype.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/index.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/AnalisiAcqua-ver1-1/index.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/files/home-hero-desktop-AC.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/_projects_/files/home_mobile-AC.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/email_consumer_monthly.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/email_video_gif.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/email_b2b_mkt.html",
+		"/Users/mec/Library/Mobile Documents/com~apple~CloudDocs/AC/email_guide_pocket.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/mecdesigner.com/projects/.index.php",
+		"/Users/mec/Desktop/DisplayDirectoryContents/.htaccess",
+		"/Users/mec/Desktop/DisplayDirectoryContents/.index.php",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/2009.mecdesigner.com/index.html",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/2008.mecdesigner.com/index.html",
+		"/Users/mec/Desktop/gnomesgames_logo/gnomesgames_black.svg",
+		"/Volumes/Ext MecBook/Sites/mecdesigner.com/notfound.html",
+		"/Volumes/Ext MecBook/Sites/mecdesigner.com/index.html",
+		"/Users/mec/Desktop/test.js",
+		"/Users/mec/Desktop/myCode_lesson2.txt",
+		"/Users/mec/Desktop/Salutations",
+		"/Users/mec/Desktop/a1_gui.py",
+		"/private/var/folders/n2/7q8dglm536v0qt9r_1zs3qkh0000gn/T/e7d81bd4-0afc-45a1-a03c-6591c0dc43ae/www/.htaccess",
+		"/Volumes/Ext MecBook/Sites/mecdesigner.com/webslides/index.html",
+		"/Users/mec/Desktop/Untitled.sb2",
+		"/Users/mec/Downloads/twentyeleven-child/style.css",
+		"/Users/mec/Downloads/twentyeleven-child/functions.php",
+		"/Volumes/Ext MecBook/Sites/lamontanara.it/wp-content/themes/twentyeleven/style.css",
+		"/Volumes/Ext MecBook/Sites/lamontanara.it/.htaccess",
+		"/Users/mec/Downloads/Test HTML - PMG %5bPRM%5d Test#01%3a Eletricidade e gás%3a acha que está a pagar muito%3f Saiba como poupar.eml",
+		"/Users/mec/Downloads/index.html",
+		"/Users/mec/Downloads/webslides-latest/demos/netflix-culture.html",
+		"/Users/mec/Downloads/webslides-latest/demos/components.html",
+		"/Users/mec/Downloads/webslides-latest/static/css/webslides.css",
+		"/Users/mec/Downloads/webslides-latest/demos/portfolios.html",
+		"/Users/mec/Downloads/webslides-latest/demos/andrea-mecenero.html",
+		"/Users/mec/Downloads/webslides-latest/static/css/svg-icons.css",
+		"/Users/mec/Downloads/webslides-latest/demos/classes.html",
+		"/Users/mec/Downloads/webslides-latest/demos/andrea-mecenero-1.html",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/index.html",
+		"/Users/mec/Desktop/_header.php",
+		"/Users/mec/Desktop/header/header01.php",
+		"/Users/mec/Desktop/header.php",
+		"/Users/mec/Desktop/index.php",
+		"/Users/mec/Desktop/header/site-branding.php",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css_v3/custom.css",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v3/Css/editing/editing.less",
+		"/Users/mec/Downloads/stack-multipurpose-html-with-page-builder/Stack 2.0.0/css/custom.css",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v3/Css/editing/editing.css",
+		"/Users/mec/Desktop/mail.php",
+		"/Users/mec/Downloads/stack-multipurpose-html-with-page-builder/Stack 2.0.0/mail/mail.php",
+		"/Users/mec/Downloads/stack-multipurpose-html-with-page-builder/Stack 2.0.0/skatesaver.html",
+		"/Users/mec/Downloads/variant-exported-thu-apr-05-2018.variant",
+		"/Users/mec/Downloads/stack-multipurpose-html-with-page-builder/Stack 2.0.0/css/custom-1.css",
+		"/Users/mec/Downloads/html-pages-thu-apr-05-2018/home-3-1522948124854.html",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/sb-admin-2-theme/less/sb-admin-2.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/sb-admin-2-theme/less/variables.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/bootstrap/less/variables.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/color palette.txt",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/editing/editing.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/editing/editing.css",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/bootstrap/less/bootstrap.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/bootstrap/less/mixins/grid.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/bootstrap/less/mixins/border-radius.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/bootstrap/less/mixins/background-variant.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/bootstrap/less/mixins/size.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/bootstrap/less/mixins/clearfix.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/bootstrap/less/alerts.less",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/sb-admin-2-theme/custom.css",
+		"/Users/mec/Downloads/us.sitesucker.mac.sitesucker/silversea.imebit.com/mmaf_v2/Css/dxCustom.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/bootstrap.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/custom.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/thankyou.html",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/thankyou-email.html",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/terms-and-conditions.html",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/privacy-policy.html",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/error-500.html",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/error-404.html",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/font-karla.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/font-frankruhl-firasans.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/flickity.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/bootstrap_v3.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/font-merriweather-ptsans.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/font-raleway.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/font-roboto.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/font-robotoslab.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/font-rubiklato.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/font-sourcesanspro.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/iconsmind.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/jquery.steps.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/lightbox.min.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/socicon.css",
+		"/Volumes/Ext MecBook/Sites/webfreelance.xyz/css/stack-interface.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
