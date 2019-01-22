@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="icon" href="img/favicon.ico">
+
+	<title>Github App</title>
+
+	<!-- CSS styles for this template -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- External Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+
+<body>
+	<main>
+		<div class="container container__window clearfix">
+  			<div class="row">
+  				<div class="col-3 sidebar">
+  					<div class="sidebar__frame">
+  						<div class="sidebar__title-bar">
+  							<button type="button" title="close" class="btn-close"></button>
+  							<button type="button" title="minimize" class="btn-minimize"></button>
+  							<button type="button" title="zoom" class="btn-zoom"></button>
+  						</div>
+  					</div>
+  					<div class="sidebar__navbar--translucent">
+	  					<nav>
+	  						<ul class="nav">
+	  							<a href="#" class="nav__link nav__link--active">
+	  								<li class="nav__item">
+	  									<object type="image/svg+xml" data="img/icon-github.svg" class="nav__icon">icon-github</object>
+	  									<h3>All</h3>
+	  									<span class="nav__detail">12</span>
+	  								</li>
+	  							</a>
+	  							<a href="#" class="nav__link">
+	  								<li class="nav__item">
+	  									<object type="image/svg+xml" data="img/icon-open-issue.svg" class="nav__icon">icon-open-issue</object>
+		  								<h3>Open</h3>
+		  								<span class="nav__detail">4</span>
+	  								</li>
+  								</a>
+  								<a href="#" class="nav__link">
+	  								<li class="nav__item">
+	  									<object type="image/svg+xml" data="img/icon-closed-issue.svg" class="nav__icon">icon-closed-issue</object>
+	  									<h3>Closed</h3>
+	  									<span class="nav__detail">8</span>
+	  								</li>
+	  							</a>
+	  						</ul>
+	  					</nav>
+  					</div>
+  				</div>
+  				<div class="col-9 column-view">
+  					<div class="column-view__category">
+	  					<time datetime="2016-07-19">19-07-2016</time>
+	  					<ul class="column-view__list-group">
+	  						<li class="column-view__item clearfix ">
+	  							<data value="#">Page changes</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon column-view__icon--active"></button>
+	  						</li>
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Review of last issues</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon column-view__icon--active"></button>
+	  						</li>
+	  					</ul>
+	  				</div>
+	  				<div class="column-view__category">
+	  					<time datetime="2016-07-18">18-07-2016</time>
+	  					<ul class="column-view__list-group">
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Visual UI Update review</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon"></button>
+	  						</li>
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Sidebar changes</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon"></button>
+	  						</li>
+	  					</ul>
+  					</div>
+  					<div class="column-view__category">
+	  					<time datetime="2016-07-15">15-07-2016</time>
+	  					<ul class="column-view__list-group">
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Crash update</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon"></button>
+	  						</li>
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Page visual UI Update Review</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon column-view__icon--active"></button>
+	  						</li>
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Sidebar update</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon"></button>
+	  						</li>
+	  					</ul>
+	  				</div>
+	  				<div class="column-view__category">
+	  					<time datetime="2016-07-14">14-07-2016</time>
+	  					<ul class="column-view__list-group">
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Crash issue</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon column-view__icon--active"></button>
+	  						</li>
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Visual update & Crash resolve</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon"></button>
+	  						</li>
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Sidebar update</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon"></button>
+	  						</li>
+	  					</ul>
+	  				</div>
+	  				<div class="column-view__category">
+	  					<time datetime="2016-07-13">13-07-2016</time>
+	  					<ul class="column-view__list-group">
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Page visual UI Update Review</data>
+	  							<button onclick="activeIssue(this)" title="star" class="column-view__icon"></button>
+	  						</li>
+	  						<li class="column-view__item clearfix">
+	  							<data value="#">Sidebar changes</data>
+  								<button onclick="activeIssue(this)" title="star" class="column-view__icon"></button>
+	  						</li>
+	  					</ul>
+	  				</div>
+  				</div>
+  			</div>
+		</div>
+	</main>
+</body>
+<script type="text/javascript">
+	function activeIssue(x) {
+		if (x.classList) {
+		x.classList.toggle("column-view__icon--active");
+		} else {
+	    var classes = x.className.split(" ");
+	    var i = classes.indexOf("column-view__icon--active");
+
+	    if (i >= 0) 
+	      classes.splice(i, 1);
+	    else 
+	      classes.push("column-view__icon--active");
+	      x.className = classes.join(" "); 
+  		}
+	}
+</script>
+</html>

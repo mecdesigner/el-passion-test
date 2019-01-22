@@ -1,0 +1,50 @@
+svg, button {
+	cursor: pointer;
+}
+
+button:focus {
+	outline: none;
+}
+
+.column-view__category {
+	.column-view__list-group {
+		.column-view__item {
+			button {
+				width: 17px;
+				height: 16px;
+				border: none;
+				padding: 0;
+				background-color: transparent;
+
+				&.column-view__icon {
+					background-image: url('../img/icon-star-disable.svg');					
+				}
+				&.column-view__icon--active {
+					background-image: url('../img/icon-star-active.svg');					
+				}
+			}
+		}
+	}
+}
+
+.sidebar__title-bar {
+	button{
+		border: none;
+		width: .625rem;
+		height: .625rem;
+		border-radius: $border-radius-lg;
+		margin: 0 .625rem 0 0;
+		padding: 0;
+		cursor: pointer;
+
+		&.btn-close {
+			background-color: $color-close;
+		}
+		&.btn-minimize {
+			background-color: $color-minimize;
+		}
+		&.btn-zoom {
+			background-color: $color-zoom;
+		}
+	}
+}
